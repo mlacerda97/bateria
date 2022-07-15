@@ -1,5 +1,5 @@
 # mlacerda97.github.io
-Aprendizados e práticas
+<b>Aprendizados e práticas</b>
 HTML e CSS
 eventListeners: observadores de evento para executar função
 funções
